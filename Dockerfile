@@ -11,7 +11,7 @@ FROM httpd:latest
 # COPY path/to/your-website-files /usr/local/apache2/htdocs/
 
 # Expose the HTTP port (default is 80)
-EXPOSE 80
+EXPOSE 90
 
 # (Optional) You can include other instructions as needed based on your application's requirements.
 
